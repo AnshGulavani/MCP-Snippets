@@ -1,3 +1,7 @@
+/*
+Locate GuiNewChat.java and replace the method "printChatMessageWithOptionalDeletion" with the following
+*/
+
 public void printChatMessageWithOptionalDeletion(IChatComponent p_146234_1_, int p_146234_2_)
 {
     IChatComponent message = p_146234_1_;
