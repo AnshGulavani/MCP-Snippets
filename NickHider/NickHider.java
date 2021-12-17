@@ -1,3 +1,7 @@
+/*
+Make sure that you dont render the mod. i have dont it by simply changing getWidth() and getHeight() to 0
+*/
+
 package eclipse.client.module.impl;
 
 import eclipse.client.module.Module;
