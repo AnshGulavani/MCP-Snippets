@@ -1,5 +1,3 @@
-package urban.client.util;
-
 import java.util.UUID;
 
 import com.mojang.authlib.Agent;
