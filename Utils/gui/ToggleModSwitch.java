@@ -1,5 +1,3 @@
-package whirlwind.ui.util;
-
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.Gui;
 import whirlwind.hud.mod.HudMod;
